@@ -1,0 +1,87 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Amaranth&family=Montserrat&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Aboreto&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Alatsi&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Exo+2:wght@600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Exo+2&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Exo+2:wght@400;700&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@200;400;500&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,300;0,400;0,700;1,500&display=swap');
+/* font-family: 'Amaranth', sans-serif;
+font-family: 'Montserrat', sans-serif; */
+
+
+:root{
+    /* --my-first-web-color : #343F71; */
+    --my-first-web-color : #5c658d;
+    /* --my-second-web-color : #DBF3FA; */
+    --my-second-web-color : #f7fcfe;
+    /* --my-third-web-color : #F34C19; */
+    --my-third-web-color : #f56f46;
+
+    --my-second-web-font : 'Aboreto', cursive;
+
+    --my-third-font : 'Montserrat', sans-serif;
+
+    --my-user-font-1 :  'Alatsi', sans-serif;
+
+    --my-web-font-1 :'Exo 2', sans-serif;
+
+    --my-web-font-2:'Raleway', sans-serif;
+
+    --my-web-font-3: 'Montserrat', sans-serif;
+
+}
+
+
+.my-first-web-color{
+    background-color: var(--my-first-web-color);
+}
+
+.my-second-web-color{
+    background-color: var(--my-second-web-color);
+}
+
+.my-third-web-color{
+    background-color: var(--my-third-web-color);
+}
+
+.my-btn-all:hover{
+    background-color: #5c658d;
+}
+
+.my-second-web-font{
+    font-family: var(--my-second-web-font);
+    /* font: var(--my-user-font-1); */
+}
+
+.my-third-font{
+    font-family: var(--my-third-font);
+}
+
+.my-user-font-1{
+    font-family: var(--my-user-font-1);
+}
+
+.akordion{
+    background-color: yellow;
+}
+
+.my-nav-tab:active{
+    background-color: var(--my-third-web-color);
+}
+
+.my-web-font-1{
+    font-family: var(--my-web-font-1)
+}
+
+.my-web-font-2{
+    font-family: var( --my-web-font-2);
+}
+
+.my-web-font-3{
+    font-family: var(--my-web-font-3);
+}

@@ -1,0 +1,5 @@
+https://github.com/LaravelDaily/Laravel-Roadmap-Learning-Path
+https://www.cloudways.com/blog/laravel-multiple-files-images-upload
+
+STUDY DATABASE
+https://www.nicesnippets.com/blog/how-to-concat-two-columns-in-laravel

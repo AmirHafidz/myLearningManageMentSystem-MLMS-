@@ -1,0 +1,29 @@
+master_tasks
+
+-- id
+-- trainer_id
+-- class_id
+-- title
+-- date_start
+-- date_end
+-- time_start
+-- time_end
+
+task_details
+
+-- id
+-- master_task_id
+-- description_one
+-- description_two
+-- file
+-- image
+-- video
+-- other
+
+task_students
+
+-- id
+-- master_task_id
+-- student_id
+-- is_finish
+-- date_submit

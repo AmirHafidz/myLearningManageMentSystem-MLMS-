@@ -1,0 +1,5 @@
+WHEN WE WANT TO FETCH FOREIGN VALUE WITH SOME CONDITION
+
+$category = ProductCategory::where('id',$request->pc)
+->with(['product' => function ($query){$query->where('status_id', 2);}])
+->get();

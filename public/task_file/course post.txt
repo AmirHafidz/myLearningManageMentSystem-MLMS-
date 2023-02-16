@@ -1,0 +1,17 @@
+course_posts
+
+-- id
+-- user_id
+-- course_id
+-- class_id
+-- title
+
+course_post_details
+
+-- id
+-- course_post_id
+-- description
+-- file
+-- image
+-- video
+-- other

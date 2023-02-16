@@ -1,0 +1,2 @@
+cast attribute must came case
+use Illuminate\Database\Eloquent\Casts\Attribute as CastsAttribute;

@@ -1,0 +1,16 @@
+credential vmware
+
+1.	Windows Server 2019
+	administrator
+	@Amir123
+
+2.	ziyech
+	@amir123
+
+Centos User 
+
+1.	root
+	@Amir123
+	
+	centosuser
+	@Amir123

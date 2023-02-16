@@ -1,0 +1,9 @@
+https://www.digitalocean.com/community/tutorials/submitting-ajax-forms-with-jquery
+https://www.youtube.com/watch?v=jO7bzPF5NDc&list=PLPip5lOh2Z5C_VANg_Cf3uHXAnC9CFch3
+https://www.youtube.com/watch?v=kJKR0igjeSQ
+
+~AUTHENTICATION~
+https://vegibit.com/how-to-create-user-registration-in-laravel/
+
+bootstrap
+https://www.bootdey.com/snippets/view/User-grid
